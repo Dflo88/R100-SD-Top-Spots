@@ -1,0 +1,13 @@
+.App {
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+.well {
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+#mainBox {
+    border: 1px solid black;
+}
+
